@@ -114,3 +114,23 @@ button{
     margin: 20px;
     padding: 20px;
 }
+
+/* media queries */
+
+@media screen (max-width: 480px) {
+    body {
+        background: skyblue;
+    }
+
+    .kill, .container {
+        width: 100%;
+    }
+}
+
+
+
+
+
+
+
+
